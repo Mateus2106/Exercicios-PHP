@@ -1,0 +1,28 @@
+*{
+	text-align: center;
+	font-family: Arial;
+}
+
+footer{
+	border: 1px solid black;
+	background-color: black;
+}
+
+footer h4{
+	color: white;
+}
+
+header{
+	border: 1px solid black;
+	background-color: black;
+}
+
+header h2{
+	color: white;
+}
+
+#php{
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #F5F5F5;
+}
